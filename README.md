@@ -1,5 +1,5 @@
 # STTA
-The project for STTA, or Shifting through the Ages
+The project for STTA, or Shifting through the Ages.
 
 Welcome to Shifting through the Ages.
 Project is developed by
