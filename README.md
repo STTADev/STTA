@@ -1,7 +1,7 @@
 # STTA
 The project for STTA, or Shifting through the Ages.
 
-It's currently unknown what this will use at this point in time, but we'll figure it out soon.
+STTA uses the Unity Engine.
 
 Welcome to Shifting through the Ages.
 Project is developed by
