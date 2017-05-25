@@ -14,7 +14,7 @@ It's recommended that you read this document before launching the game.
 
 EULA
 1a. Payments
-  STTA is a free indie game. You should not have paid money for STTA. If you have, get a refund. The official STTA is downloaded at github.com/STTADev/STTA, but it will likely change very soon. It may be changed to getshiftos.ml. We aren't sure though.
+  STTA is a free indie game. You should not have paid money for STTA. If you have, get a refund. The official STTA is downloaded at github.com/STTADev/STTA, but it will likely change very soon.
   
 1b. Privacy
   Your privacy is yours. We do not share your email, password, age, or anything like that.
