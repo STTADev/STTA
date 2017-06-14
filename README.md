@@ -1,7 +1,7 @@
 # STTA
 This is the official repository for STTA, or Shifting through the Ages.
 
-STTA is developed using the Unity Game Egnine.
+STTA is developed using the Unity Game Engine.
 
 Welcome to Shifting through the Ages. This project is developed by Rain, the lead in-game game developer, and the idea Michael(theShifter), the lead C# developer, who makes the menus and stuff, astro, for a handful of the designs, and lempamo, who is a C# developer and may only be temporary.
 
